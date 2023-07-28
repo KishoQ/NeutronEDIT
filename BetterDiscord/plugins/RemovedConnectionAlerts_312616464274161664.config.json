@@ -1,0 +1,1237 @@
+{
+    "savedData": {
+        "friendCache": {
+            "110082793224024064": {
+                "id": "110082793224024064",
+                "tag": "WindupVani#8889",
+                "avatar": "7bba8cd100f8c730ea33ae5d403aacbd",
+                "avatarURL": "https://cdn.discordapp.com/avatars/110082793224024064/7bba8cd100f8c730ea33ae5d403aacbd.webp?size=60"
+            },
+            "118930306387542016": {
+                "id": "118930306387542016",
+                "tag": "Max HD#7085",
+                "avatar": "819278e6a24aae90853f94877591adae",
+                "avatarURL": "https://cdn.discordapp.com/avatars/118930306387542016/819278e6a24aae90853f94877591adae.webp?size=60"
+            },
+            "136751013582340096": {
+                "id": "136751013582340096",
+                "tag": "SIN#4408",
+                "avatar": "78e33515b73c49417c421f5fce672e1d",
+                "avatarURL": "https://cdn.discordapp.com/avatars/136751013582340096/78e33515b73c49417c421f5fce672e1d.webp?size=60"
+            },
+            "153600674070921216": {
+                "id": "153600674070921216",
+                "tag": "Murcer#0756",
+                "avatar": "b9b68412e6a301fce6cdfb411a5400fe",
+                "avatarURL": "https://cdn.discordapp.com/avatars/153600674070921216/b9b68412e6a301fce6cdfb411a5400fe.webp?size=60"
+            },
+            "172026502324420615": {
+                "id": "172026502324420615",
+                "tag": "PublicEnemyNo1#2985",
+                "avatar": "9241b27cb68947b512df0b7b07e545c2",
+                "avatarURL": "https://cdn.discordapp.com/avatars/172026502324420615/9241b27cb68947b512df0b7b07e545c2.webp?size=60"
+            },
+            "185517527852384256": {
+                "id": "185517527852384256",
+                "tag": "Spreadabl#3732",
+                "avatar": "9de6b536325c818f0d924c510d870a6b",
+                "avatarURL": "https://cdn.discordapp.com/avatars/185517527852384256/9de6b536325c818f0d924c510d870a6b.webp?size=60"
+            },
+            "186310558302208000": {
+                "id": "186310558302208000",
+                "tag": "Alciel#9203",
+                "avatar": "97c0ffa4e64e6048220c559ebcc995e4",
+                "avatarURL": "https://cdn.discordapp.com/avatars/186310558302208000/97c0ffa4e64e6048220c559ebcc995e4.webp?size=60"
+            },
+            "191927039811387392": {
+                "id": "191927039811387392",
+                "tag": "BlackCanary#7853",
+                "avatar": "c9bc0b17b26a0ccbf9bbcdc998a9ec18",
+                "avatarURL": "https://cdn.discordapp.com/avatars/191927039811387392/c9bc0b17b26a0ccbf9bbcdc998a9ec18.webp?size=60"
+            },
+            "195277831561936896": {
+                "id": "195277831561936896",
+                "tag": "チキンナゲット#0909",
+                "avatar": "468c5a860642d3a753738d1d9c264ff7",
+                "avatarURL": "https://cdn.discordapp.com/avatars/195277831561936896/468c5a860642d3a753738d1d9c264ff7.webp?size=60"
+            },
+            "210080783338176512": {
+                "id": "210080783338176512",
+                "tag": "Kezmark#7321",
+                "avatar": "2d3b32152237dd8a6878d80169d2614d",
+                "avatarURL": "https://cdn.discordapp.com/avatars/210080783338176512/2d3b32152237dd8a6878d80169d2614d.webp?size=60"
+            },
+            "223929302016720896": {
+                "id": "223929302016720896",
+                "tag": "Skr#3455",
+                "avatar": "b5f58446900bdd4355d2ce3be47374d5",
+                "avatarURL": "https://cdn.discordapp.com/avatars/223929302016720896/b5f58446900bdd4355d2ce3be47374d5.webp?size=60"
+            },
+            "231135089600364546": {
+                "id": "231135089600364546",
+                "tag": "Valzeina#8373",
+                "avatar": "f44b557b8969e76add7d1650c9561457",
+                "avatarURL": "https://cdn.discordapp.com/avatars/231135089600364546/f44b557b8969e76add7d1650c9561457.webp?size=60"
+            },
+            "237249911169482752": {
+                "id": "237249911169482752",
+                "tag": "Aster#6635",
+                "avatar": "5d0bc025158e2e88eaae1f0555aaf385",
+                "avatarURL": "https://cdn.discordapp.com/avatars/237249911169482752/5d0bc025158e2e88eaae1f0555aaf385.webp?size=60"
+            },
+            "245973249488322560": {
+                "id": "245973249488322560",
+                "tag": "Baby Yoda#6876",
+                "avatar": "4de84c9a226f6213b3c180ed31d8fe33",
+                "avatarURL": "https://cdn.discordapp.com/avatars/245973249488322560/4de84c9a226f6213b3c180ed31d8fe33.webp?size=60"
+            },
+            "253836618719428608": {
+                "id": "253836618719428608",
+                "tag": "Kejpi#6277",
+                "avatar": "2b3f1ffb259c6dc7020176cb0eb9fcd8",
+                "avatarURL": "https://cdn.discordapp.com/avatars/253836618719428608/2b3f1ffb259c6dc7020176cb0eb9fcd8.webp?size=60"
+            },
+            "259669119882887169": {
+                "id": "259669119882887169",
+                "tag": "xen#7918",
+                "avatar": "77c570067dfeb92fe0a622f518553adb",
+                "avatarURL": "https://cdn.discordapp.com/avatars/259669119882887169/77c570067dfeb92fe0a622f518553adb.webp?size=60"
+            },
+            "259681837847281665": {
+                "id": "259681837847281665",
+                "tag": "Joey-Desu#8768",
+                "avatar": "daacd725659a236cfcee9df01788cf8e",
+                "avatarURL": "https://cdn.discordapp.com/avatars/259681837847281665/daacd725659a236cfcee9df01788cf8e.webp?size=60"
+            },
+            "261255114726047744": {
+                "id": "261255114726047744",
+                "tag": "Vodkadillo#4871",
+                "avatar": "5309227799e24ac1a9e036dd11e0d51e",
+                "avatarURL": "https://cdn.discordapp.com/avatars/261255114726047744/5309227799e24ac1a9e036dd11e0d51e.webp?size=60"
+            },
+            "264554425886965760": {
+                "id": "264554425886965760",
+                "tag": "биетка#9894",
+                "avatar": "a_8afd94b782938108d2847de92f176934",
+                "avatarURL": "https://cdn.discordapp.com/avatars/264554425886965760/a_8afd94b782938108d2847de92f176934.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/avatars/264554425886965760/a_8afd94b782938108d2847de92f176934.gif?"
+            },
+            "281121003994742785": {
+                "id": "281121003994742785",
+                "tag": "Anuhiu#6969",
+                "avatar": "4c413612abd97b288e7e76014007ab35",
+                "avatarURL": "https://cdn.discordapp.com/avatars/281121003994742785/4c413612abd97b288e7e76014007ab35.webp?size=60"
+            },
+            "293000082725273600": {
+                "id": "293000082725273600",
+                "tag": "mYo#6376",
+                "avatar": "f672dcceb60b5dc81a27b72c06a49b70",
+                "avatarURL": "https://cdn.discordapp.com/avatars/293000082725273600/f672dcceb60b5dc81a27b72c06a49b70.webp?size=60"
+            },
+            "296856755613466625": {
+                "id": "296856755613466625",
+                "tag": "Dr1ftingTurt13s#5042",
+                "avatar": "d5588f176a45a9b880ae951bc01ff6f2",
+                "avatarURL": "https://cdn.discordapp.com/avatars/296856755613466625/d5588f176a45a9b880ae951bc01ff6f2.webp?size=60"
+            },
+            "302901073893654528": {
+                "id": "302901073893654528",
+                "tag": "Bento#6236",
+                "avatar": "deee3d9cf3882e6d3ff656d8e706f369",
+                "avatarURL": "https://cdn.discordapp.com/avatars/302901073893654528/deee3d9cf3882e6d3ff656d8e706f369.webp?size=60"
+            },
+            "304978583900782593": {
+                "id": "304978583900782593",
+                "tag": "Erik_ok#0299",
+                "avatar": "baab414f59b5b342d9ac7a0e0aa849bd",
+                "avatarURL": "https://cdn.discordapp.com/avatars/304978583900782593/baab414f59b5b342d9ac7a0e0aa849bd.webp?size=60"
+            },
+            "305780733153378306": {
+                "id": "305780733153378306",
+                "tag": "shade#1056",
+                "avatar": "40c275c579428e69b2da2b42e4461347",
+                "avatarURL": "https://cdn.discordapp.com/avatars/305780733153378306/40c275c579428e69b2da2b42e4461347.webp?size=60"
+            },
+            "312681810167332864": {
+                "id": "312681810167332864",
+                "tag": "Saby#0121",
+                "avatar": "984b02adfd9d9e4036a997505c1bb425",
+                "avatarURL": "https://cdn.discordapp.com/avatars/312681810167332864/984b02adfd9d9e4036a997505c1bb425.webp?size=60"
+            },
+            "312697280945848320": {
+                "id": "312697280945848320",
+                "tag": "popi1992#1870",
+                "avatar": "0d159c0ab0732def70ed1efdaac525ec",
+                "avatarURL": "https://cdn.discordapp.com/avatars/312697280945848320/0d159c0ab0732def70ed1efdaac525ec.webp?size=60"
+            },
+            "312698481347395584": {
+                "id": "312698481347395584",
+                "tag": "Trabireiter#9540",
+                "avatar": "c2150a609db45dd5006c0548ae3be23d",
+                "avatarURL": "https://cdn.discordapp.com/avatars/312698481347395584/c2150a609db45dd5006c0548ae3be23d.webp?size=60"
+            },
+            "312701721933643776": {
+                "id": "312701721933643776",
+                "tag": "Bierandemacht#7030",
+                "avatar": "11dd3d77ce44aac08b438a73b75847fe",
+                "avatarURL": "https://cdn.discordapp.com/avatars/312701721933643776/11dd3d77ce44aac08b438a73b75847fe.webp?size=60"
+            },
+            "313343527536951296": {
+                "id": "313343527536951296",
+                "tag": "omi25#0264",
+                "avatar": "39fafdd772225cc51ff29a32735d6961",
+                "avatarURL": "https://cdn.discordapp.com/avatars/313343527536951296/39fafdd772225cc51ff29a32735d6961.webp?size=60"
+            },
+            "327599303822540801": {
+                "id": "327599303822540801",
+                "tag": "MissWhiteWolf#3128",
+                "avatar": "508a9c699aade8c6929f1f5dc8f12c46",
+                "avatarURL": "https://cdn.discordapp.com/avatars/327599303822540801/508a9c699aade8c6929f1f5dc8f12c46.webp?size=60"
+            },
+            "328604090923876353": {
+                "id": "328604090923876353",
+                "tag": "Magikaan#0420",
+                "avatar": "9f6382216a0520e890c6683e1e6390b1",
+                "avatarURL": "https://cdn.discordapp.com/avatars/328604090923876353/9f6382216a0520e890c6683e1e6390b1.webp?size=60"
+            },
+            "341404097506836480": {
+                "id": "341404097506836480",
+                "tag": "╲⎝⧹Anacraft⧸⎠╱#4797",
+                "avatar": "29ce85fcdaf613f5ef59bdd0485d575c",
+                "avatarURL": "https://cdn.discordapp.com/avatars/341404097506836480/29ce85fcdaf613f5ef59bdd0485d575c.webp?size=60"
+            },
+            "350431056983490561": {
+                "id": "350431056983490561",
+                "tag": "Eni#9099",
+                "avatar": "5131ea991de62d2de93335b348f3405e",
+                "avatarURL": "https://cdn.discordapp.com/avatars/350431056983490561/5131ea991de62d2de93335b348f3405e.webp?size=60"
+            },
+            "352928050331254794": {
+                "id": "352928050331254794",
+                "tag": "escor#8916",
+                "avatar": "fd10964f5d5afba2f5ed66715f2f13ae",
+                "avatarURL": "https://cdn.discordapp.com/avatars/352928050331254794/fd10964f5d5afba2f5ed66715f2f13ae.webp?size=60"
+            },
+            "359025955471228961": {
+                "id": "359025955471228961",
+                "tag": "reiden574#4656",
+                "avatar": "324bb9412e6fc64f649fb03d4f983175",
+                "avatarURL": "https://cdn.discordapp.com/avatars/359025955471228961/324bb9412e6fc64f649fb03d4f983175.webp?size=60"
+            },
+            "368261093463818241": {
+                "id": "368261093463818241",
+                "tag": "Narhsi#8424",
+                "avatar": "7aac9b0f68ebc56072733002986c8daa",
+                "avatarURL": "https://cdn.discordapp.com/avatars/368261093463818241/7aac9b0f68ebc56072733002986c8daa.webp?size=60"
+            },
+            "394163467134697476": {
+                "id": "394163467134697476",
+                "tag": "DSG_Lucid#9253",
+                "avatar": "ef5c829ceeb2984db979fdabae8e93a8",
+                "avatarURL": "https://cdn.discordapp.com/avatars/394163467134697476/ef5c829ceeb2984db979fdabae8e93a8.webp?size=60"
+            },
+            "404381046650699786": {
+                "id": "404381046650699786",
+                "tag": "olle-tuning-kai#3192",
+                "avatar": "27c8a8732366cce5c78e5ff8580f5958",
+                "avatarURL": "https://cdn.discordapp.com/avatars/404381046650699786/27c8a8732366cce5c78e5ff8580f5958.webp?size=60"
+            },
+            "411877656020123649": {
+                "id": "411877656020123649",
+                "tag": "General#9295",
+                "avatar": "7dbe0524aef816f22e3b20b3cc04ef58",
+                "avatarURL": "https://cdn.discordapp.com/avatars/411877656020123649/7dbe0524aef816f22e3b20b3cc04ef58.webp?size=60"
+            },
+            "418771721277931520": {
+                "id": "418771721277931520",
+                "tag": "Raiko#8935",
+                "avatar": "208e62756fd684faa081db493020c0a5",
+                "avatarURL": "https://cdn.discordapp.com/avatars/418771721277931520/208e62756fd684faa081db493020c0a5.webp?size=60"
+            },
+            "420672641226113035": {
+                "id": "420672641226113035",
+                "tag": "Kyra#7497",
+                "avatar": "9868c06ad5a289a21235a3d00f6b229a",
+                "avatarURL": "https://cdn.discordapp.com/avatars/420672641226113035/9868c06ad5a289a21235a3d00f6b229a.webp?size=60"
+            },
+            "429702830937341953": {
+                "id": "429702830937341953",
+                "tag": "Tech_The_Demonlord#2764",
+                "avatar": "9128147accec1cd27ab8a169bfa4eac4",
+                "avatarURL": "https://cdn.discordapp.com/avatars/429702830937341953/9128147accec1cd27ab8a169bfa4eac4.webp?size=60"
+            },
+            "443746854065143809": {
+                "id": "443746854065143809",
+                "tag": "Willy Wonka / Dave#8505",
+                "avatar": "a_5593ba77fb416799609452cb4cac8c25",
+                "avatarURL": "https://cdn.discordapp.com/avatars/443746854065143809/a_5593ba77fb416799609452cb4cac8c25.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/avatars/443746854065143809/a_5593ba77fb416799609452cb4cac8c25.gif?"
+            },
+            "452583951408824320": {
+                "id": "452583951408824320",
+                "tag": "Skeerb#7542",
+                "avatar": "99c28c4fec2d249616b833258d63c7dd",
+                "avatarURL": "https://cdn.discordapp.com/avatars/452583951408824320/99c28c4fec2d249616b833258d63c7dd.webp?size=60"
+            },
+            "466556827006533632": {
+                "id": "466556827006533632",
+                "tag": "DoriFish#8588",
+                "avatar": "ea6552b2ae5de0a7ef241e3a0adc4bf8",
+                "avatarURL": "https://cdn.discordapp.com/avatars/466556827006533632/ea6552b2ae5de0a7ef241e3a0adc4bf8.webp?size=60"
+            },
+            "534827712163086347": {
+                "id": "534827712163086347",
+                "tag": "Miguuuu#6836",
+                "avatar": "c7e422dce26a459ee2fb91d04f7fce96",
+                "avatarURL": "https://cdn.discordapp.com/avatars/534827712163086347/c7e422dce26a459ee2fb91d04f7fce96.webp?size=60"
+            },
+            "535940207858548756": {
+                "id": "535940207858548756",
+                "tag": "Kira13#0773",
+                "avatar": "c0d1dd935371ff38ed933660ba75563b",
+                "avatarURL": "https://cdn.discordapp.com/avatars/535940207858548756/c0d1dd935371ff38ed933660ba75563b.webp?size=60"
+            },
+            "541802297186058241": {
+                "id": "541802297186058241",
+                "tag": "COPS#0769",
+                "avatar": "153e36bf869b77099edffa8cb95e45d7",
+                "avatarURL": "https://cdn.discordapp.com/avatars/541802297186058241/153e36bf869b77099edffa8cb95e45d7.webp?size=60"
+            },
+            "581657868831555607": {
+                "id": "581657868831555607",
+                "tag": "Cereza#8407",
+                "avatar": "b8c5f6f6ae1296b8c4df019bd6b88a98",
+                "avatarURL": "https://cdn.discordapp.com/avatars/581657868831555607/b8c5f6f6ae1296b8c4df019bd6b88a98.webp?size=60"
+            },
+            "604433668676780044": {
+                "id": "604433668676780044",
+                "tag": "Dark-_-Wolf_986#1499",
+                "avatar": "898c9e6f6d16e272c9dd9e0e9b9ae08e",
+                "avatarURL": "https://cdn.discordapp.com/avatars/604433668676780044/898c9e6f6d16e272c9dd9e0e9b9ae08e.webp?size=60"
+            },
+            "611559943220232193": {
+                "id": "611559943220232193",
+                "tag": "Amaen#8562",
+                "avatar": "29cebb330b4ae828a33a9a06eba21a7e",
+                "avatarURL": "https://cdn.discordapp.com/avatars/611559943220232193/29cebb330b4ae828a33a9a06eba21a7e.webp?size=60"
+            },
+            "620006594637463552": {
+                "id": "620006594637463552",
+                "tag": "ƧΣKЦПDΣПKᄂΣBΣЯ#8654",
+                "avatar": "6f2f5a628aa4286abf817ec9252eb093",
+                "avatarURL": "https://cdn.discordapp.com/avatars/620006594637463552/6f2f5a628aa4286abf817ec9252eb093.webp?size=60"
+            },
+            "640636734887165982": {
+                "id": "640636734887165982",
+                "tag": "Daryuun#8451",
+                "avatar": "38de3526b043097b1fd244fa4f2cc99f",
+                "avatarURL": "https://cdn.discordapp.com/avatars/640636734887165982/38de3526b043097b1fd244fa4f2cc99f.webp?size=60"
+            },
+            "690287038922358785": {
+                "id": "690287038922358785",
+                "tag": "cloud#7777",
+                "avatar": "124984fc36479920bf2f3056f700adb4",
+                "avatarURL": "https://cdn.discordapp.com/avatars/690287038922358785/124984fc36479920bf2f3056f700adb4.webp?size=60"
+            },
+            "708207984676831245": {
+                "id": "708207984676831245",
+                "tag": "Silent Foxy#6768",
+                "avatar": "2378c4e09eed505b5bdf7c61ab4680a9",
+                "avatarURL": "https://cdn.discordapp.com/avatars/708207984676831245/2378c4e09eed505b5bdf7c61ab4680a9.webp?size=60"
+            },
+            "712381250928640050": {
+                "id": "712381250928640050",
+                "tag": "DeathToxic#5784",
+                "avatar": null,
+                "avatarURL": "/assets/3c6ccb83716d1e4fb91d3082f6b21d77.png"
+            },
+            "737139551318966292": {
+                "id": "737139551318966292",
+                "tag": "ThatDemonslayer#5617",
+                "avatar": "18b82fd292153d4f56f0bee95da3fea7",
+                "avatarURL": "https://cdn.discordapp.com/avatars/737139551318966292/18b82fd292153d4f56f0bee95da3fea7.webp?size=60"
+            },
+            "757714278286622850": {
+                "id": "757714278286622850",
+                "tag": "Lexy#2224",
+                "avatar": "3964ed43f97e33e4030ce20f5062192c",
+                "avatarURL": "https://cdn.discordapp.com/avatars/757714278286622850/3964ed43f97e33e4030ce20f5062192c.webp?size=60"
+            },
+            "835879135929827358": {
+                "id": "835879135929827358",
+                "tag": "rainz#4619",
+                "avatar": "5c3cf52483b62da0d7e74e1b6e4547b6",
+                "avatarURL": "https://cdn.discordapp.com/avatars/835879135929827358/5c3cf52483b62da0d7e74e1b6e4547b6.webp?size=60"
+            },
+            "870088023977644113": {
+                "id": "870088023977644113",
+                "tag": "chiko#9885",
+                "avatar": "a_ef3fbcf1d84071e20d34744bc0d3f6ce",
+                "avatarURL": "https://cdn.discordapp.com/avatars/870088023977644113/a_ef3fbcf1d84071e20d34744bc0d3f6ce.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/avatars/870088023977644113/a_ef3fbcf1d84071e20d34744bc0d3f6ce.gif?"
+            },
+            "877110763121164298": {
+                "id": "877110763121164298",
+                "tag": "Toxic-_-Kyuubi#2145",
+                "avatar": "83b2e3800cb135835db898f572e2b46a",
+                "avatarURL": "https://cdn.discordapp.com/avatars/877110763121164298/83b2e3800cb135835db898f572e2b46a.webp?size=60"
+            },
+            "921511903543566396": {
+                "id": "921511903543566396",
+                "tag": "QtDesire#2089",
+                "avatar": "afd43cd7f5cbbb43ae4b42706122ab8e",
+                "avatarURL": "https://cdn.discordapp.com/avatars/921511903543566396/afd43cd7f5cbbb43ae4b42706122ab8e.webp?size=60"
+            },
+            "940165693284970536": {
+                "id": "940165693284970536",
+                "tag": "Satan751#3534",
+                "avatar": "b95e6855c6095e971c3edbb4d1df4e31",
+                "avatarURL": "https://cdn.discordapp.com/avatars/940165693284970536/b95e6855c6095e971c3edbb4d1df4e31.webp?size=60"
+            },
+            "941753151743213568": {
+                "id": "941753151743213568",
+                "tag": "메이•ও#1224",
+                "avatar": "c5d049e3aa3c68f9a45691907b6d94f4",
+                "avatarURL": "https://cdn.discordapp.com/avatars/941753151743213568/c5d049e3aa3c68f9a45691907b6d94f4.webp?size=60"
+            },
+            "969633252526657606": {
+                "id": "969633252526657606",
+                "tag": "mmYoo#0302",
+                "avatar": "a98c456059b3b82d6feeb4ff5a9a0186",
+                "avatarURL": "https://cdn.discordapp.com/avatars/969633252526657606/a98c456059b3b82d6feeb4ff5a9a0186.webp?size=60"
+            },
+            "970575232198905896": {
+                "id": "970575232198905896",
+                "tag": "ecliiiiiipse#6666",
+                "avatar": "a_dabfab053bd69481318f55e193177cd2",
+                "avatarURL": "https://cdn.discordapp.com/avatars/970575232198905896/a_dabfab053bd69481318f55e193177cd2.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/avatars/970575232198905896/a_dabfab053bd69481318f55e193177cd2.gif?"
+            },
+            "986494712150097970": {
+                "id": "986494712150097970",
+                "tag": "Check Bio Or Coke Will Rape You#0336",
+                "avatar": "38ff8d2314e7c264cb8edf4cf35f80ce",
+                "avatarURL": "https://cdn.discordapp.com/avatars/986494712150097970/38ff8d2314e7c264cb8edf4cf35f80ce.webp?size=60"
+            },
+            "1065658124851228672": {
+                "id": "1065658124851228672",
+                "tag": "Shirrire#1843",
+                "avatar": null,
+                "avatarURL": "/assets/6f26ddd1bf59740c536d2274bb834a05.png"
+            }
+        },
+        "guildCache": {
+            "971164439552339978": {
+                "id": "971164439552339978",
+                "name": "MissWhiteWolf's Hideout",
+                "icon": "ec9c5510cb1f21c798d5beb8e468a8b4",
+                "avatarURL": "https://cdn.discordapp.com/icons/971164439552339978/ec9c5510cb1f21c798d5beb8e468a8b4.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/971164439552339978/ec9c5510cb1f21c798d5beb8e468a8b4.webp?",
+                "joinedAt": "2022-08-08T23:24:51.040Z",
+                "owner": "MissWhiteWolf#3128",
+                "ownerId": "327599303822540801"
+            },
+            "312623964130246656": {
+                "id": "312623964130246656",
+                "name": "🅳🅸🅼🅰",
+                "icon": "e2caa0d44ebaa24846bcee579c47dcf9",
+                "avatarURL": "https://cdn.discordapp.com/icons/312623964130246656/e2caa0d44ebaa24846bcee579c47dcf9.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/312623964130246656/e2caa0d44ebaa24846bcee579c47dcf9.webp?",
+                "joinedAt": "2017-05-12T16:16:01.420Z",
+                "owner": "SWLP#9415",
+                "ownerId": "312616464274161664"
+            },
+            "792680468138819594": {
+                "id": "792680468138819594",
+                "name": "『 LOST THINGS 』",
+                "icon": "e941c8996e9fc1c0becbd56708a65292",
+                "avatarURL": "https://cdn.discordapp.com/icons/792680468138819594/e941c8996e9fc1c0becbd56708a65292.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/792680468138819594/e941c8996e9fc1c0becbd56708a65292.webp?",
+                "joinedAt": "2022-05-21T20:05:46.562Z",
+                "owner": "ʟᴏꜱᴛ#0001",
+                "ownerId": "425469188228907019"
+            },
+            "927032063587156028": {
+                "id": "927032063587156028",
+                "name": "_SHELTERNET",
+                "icon": "376fd92724b905222ab7be819186fc6e",
+                "avatarURL": "https://cdn.discordapp.com/icons/927032063587156028/376fd92724b905222ab7be819186fc6e.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/927032063587156028/376fd92724b905222ab7be819186fc6e.webp?",
+                "joinedAt": "2022-04-30T19:03:57.678Z",
+                "owner": "",
+                "ownerId": "444609219946348544"
+            },
+            "477210626742288384": {
+                "id": "477210626742288384",
+                "name": "Tom Clancy's The Division",
+                "icon": "8415cfeaef91bb32086dd8ef15a1281f",
+                "avatarURL": "https://cdn.discordapp.com/icons/477210626742288384/8415cfeaef91bb32086dd8ef15a1281f.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/477210626742288384/8415cfeaef91bb32086dd8ef15a1281f.webp?",
+                "joinedAt": "2021-05-25T01:58:14.069Z",
+                "owner": "",
+                "ownerId": "1021859221614121081"
+            },
+            "662267976984297473": {
+                "id": "662267976984297473",
+                "name": "Midjourney",
+                "icon": "e75033be72087a87fa09e91727dac2a4",
+                "avatarURL": "https://cdn.discordapp.com/icons/662267976984297473/e75033be72087a87fa09e91727dac2a4.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/662267976984297473/e75033be72087a87fa09e91727dac2a4.webp?",
+                "joinedAt": "2022-10-03T15:19:13.908Z",
+                "owner": "DavidH#5346",
+                "ownerId": "381590592095911946"
+            },
+            "380042624586874881": {
+                "id": "380042624586874881",
+                "name": "Market Board Bets",
+                "icon": "d65f3c2a10005aab65e74f52dbd10541",
+                "avatarURL": "https://cdn.discordapp.com/icons/380042624586874881/d65f3c2a10005aab65e74f52dbd10541.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/380042624586874881/d65f3c2a10005aab65e74f52dbd10541.webp?",
+                "joinedAt": "2021-11-13T05:13:38.531Z",
+                "owner": "",
+                "ownerId": "250774653562257408"
+            },
+            "579635354600996864": {
+                "id": "579635354600996864",
+                "name": "Sophisticated",
+                "icon": "57b147778147c6e10e66f6efd061a6d7",
+                "avatarURL": "https://cdn.discordapp.com/icons/579635354600996864/57b147778147c6e10e66f6efd061a6d7.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/579635354600996864/57b147778147c6e10e66f6efd061a6d7.webp?",
+                "joinedAt": "2021-09-18T21:52:24.731Z",
+                "owner": "",
+                "ownerId": "265942223730900992"
+            },
+            "909384859275919390": {
+                "id": "909384859275919390",
+                "name": "𝓣𝓲𝓵𝓵𝔂'𝓼  𝓶𝓪𝓷  𝓬𝓪𝓿𝓮",
+                "icon": "921f1b7bbb88efc10ddcb206222b423b",
+                "avatarURL": "https://cdn.discordapp.com/icons/909384859275919390/921f1b7bbb88efc10ddcb206222b423b.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/909384859275919390/921f1b7bbb88efc10ddcb206222b423b.webp?",
+                "joinedAt": "2022-05-21T19:29:48.720Z",
+                "owner": "",
+                "ownerId": "345998668278661151"
+            },
+            "441979980407373844": {
+                "id": "441979980407373844",
+                "name": "˗ˏˋ꒰❀ P a l e t t e 彩꒱´ˎ˗",
+                "icon": "a_201905fdead59e50c3852c536953fb99",
+                "avatarURL": "https://cdn.discordapp.com/icons/441979980407373844/a_201905fdead59e50c3852c536953fb99.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/441979980407373844/a_201905fdead59e50c3852c536953fb99.gif?",
+                "joinedAt": "2019-01-09T10:35:46.351Z",
+                "owner": "",
+                "ownerId": "272109502382211072"
+            },
+            "213330594749349888": {
+                "id": "213330594749349888",
+                "name": "BDO Ninja/Kunoichi Discord",
+                "icon": "a_1ea036b819e5bbd8634b6df4598c642f",
+                "avatarURL": "https://cdn.discordapp.com/icons/213330594749349888/a_1ea036b819e5bbd8634b6df4598c642f.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/213330594749349888/a_1ea036b819e5bbd8634b6df4598c642f.gif?",
+                "joinedAt": "2019-03-18T19:41:01.079Z",
+                "owner": "",
+                "ownerId": "163490537779757056"
+            },
+            "710026416632102955": {
+                "id": "710026416632102955",
+                "name": "RAID SERVER ²",
+                "icon": "a_cc1facb0601724bba43e7b850fc57d78",
+                "avatarURL": "https://cdn.discordapp.com/icons/710026416632102955/a_cc1facb0601724bba43e7b850fc57d78.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/710026416632102955/a_cc1facb0601724bba43e7b850fc57d78.gif?",
+                "joinedAt": "2021-05-30T09:36:30.375Z",
+                "owner": "",
+                "ownerId": "515997383558037507"
+            },
+            "869482994468020275": {
+                "id": "869482994468020275",
+                "name": "Avatar Recovery",
+                "icon": "e25da7615e252a8f4ae279df2075486b",
+                "avatarURL": "https://cdn.discordapp.com/icons/869482994468020275/e25da7615e252a8f4ae279df2075486b.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/869482994468020275/e25da7615e252a8f4ae279df2075486b.webp?",
+                "joinedAt": "2022-02-04T07:10:07.306Z",
+                "owner": "",
+                "ownerId": "866937399980589067"
+            },
+            "759754608200908871": {
+                "id": "759754608200908871",
+                "name": "Endless Nights Events",
+                "icon": "4db9a24fd5234f8e8b9aae671cf3c4a9",
+                "avatarURL": "https://cdn.discordapp.com/icons/759754608200908871/4db9a24fd5234f8e8b9aae671cf3c4a9.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/759754608200908871/4db9a24fd5234f8e8b9aae671cf3c4a9.webp?",
+                "joinedAt": "2021-10-30T12:00:29.953Z",
+                "owner": "",
+                "ownerId": "175274495161008129"
+            },
+            "844628623884681268": {
+                "id": "844628623884681268",
+                "name": "𓆰├  Bambi's Meadow",
+                "icon": "fddd76eba51b3318e599876b2aab6578",
+                "avatarURL": "https://cdn.discordapp.com/icons/844628623884681268/fddd76eba51b3318e599876b2aab6578.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/844628623884681268/fddd76eba51b3318e599876b2aab6578.webp?",
+                "joinedAt": "2022-05-21T07:59:44.943Z",
+                "owner": "",
+                "ownerId": "654812655764373504"
+            },
+            "638653978984448000": {
+                "id": "638653978984448000",
+                "name": "-.A.- Astartes",
+                "icon": "6768a10ed80824627754ab5ea31151da",
+                "avatarURL": "https://cdn.discordapp.com/icons/638653978984448000/6768a10ed80824627754ab5ea31151da.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/638653978984448000/6768a10ed80824627754ab5ea31151da.webp?",
+                "joinedAt": "2022-07-16T10:01:50.045Z",
+                "owner": "General#9295",
+                "ownerId": "411877656020123649"
+            },
+            "678702798459895842": {
+                "id": "678702798459895842",
+                "name": "Tarkov-Market",
+                "icon": "737ca1aa3998d8193c098d1748b5280e",
+                "avatarURL": "https://cdn.discordapp.com/icons/678702798459895842/737ca1aa3998d8193c098d1748b5280e.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/678702798459895842/737ca1aa3998d8193c098d1748b5280e.webp?",
+                "joinedAt": "2023-01-06T07:30:22.537Z",
+                "owner": "",
+                "ownerId": "270885917852434440"
+            },
+            "647427816895414292": {
+                "id": "647427816895414292",
+                "name": "BDO Guardian Discord",
+                "icon": "a_85dc1fcf88de4415cde3317f3171c612",
+                "avatarURL": "https://cdn.discordapp.com/icons/647427816895414292/a_85dc1fcf88de4415cde3317f3171c612.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/647427816895414292/a_85dc1fcf88de4415cde3317f3171c612.gif?",
+                "joinedAt": "2020-11-08T08:41:37.187Z",
+                "owner": "",
+                "ownerId": "88959744995241984"
+            },
+            "241526080010190848": {
+                "id": "241526080010190848",
+                "name": "BDO Witch/Wizard Server",
+                "icon": "a_f2d9d71b7ff17e0635d569dc54b1eea5",
+                "avatarURL": "https://cdn.discordapp.com/icons/241526080010190848/a_f2d9d71b7ff17e0635d569dc54b1eea5.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/241526080010190848/a_f2d9d71b7ff17e0635d569dc54b1eea5.gif?",
+                "joinedAt": "2020-11-08T06:39:10.801Z",
+                "owner": "",
+                "ownerId": "159808450698674179"
+            },
+            "492294696912158720": {
+                "id": "492294696912158720",
+                "name": "Λ C Ξ Λ S I N",
+                "icon": "a_9163ea33c4a4e840b4b49f6310d104a7",
+                "avatarURL": "https://cdn.discordapp.com/icons/492294696912158720/a_9163ea33c4a4e840b4b49f6310d104a7.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/492294696912158720/a_9163ea33c4a4e840b4b49f6310d104a7.gif?",
+                "joinedAt": "2022-05-13T08:41:54.170Z",
+                "owner": "Ace Asin#0001",
+                "ownerId": "373656777671311360"
+            },
+            "521658062809989171": {
+                "id": "521658062809989171",
+                "name": "BDO Event Discord",
+                "icon": "80fc20cd1e3ae202bde3495f044441d7",
+                "avatarURL": "https://cdn.discordapp.com/icons/521658062809989171/80fc20cd1e3ae202bde3495f044441d7.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/521658062809989171/80fc20cd1e3ae202bde3495f044441d7.webp?",
+                "joinedAt": "2020-08-21T17:38:54.193Z",
+                "owner": "",
+                "ownerId": "217354977255882754"
+            },
+            "759038927151300618": {
+                "id": "759038927151300618",
+                "name": "The Catwalk",
+                "icon": "8a6a489c1da37ef0ec2dc740fe3ce5e1",
+                "avatarURL": "https://cdn.discordapp.com/icons/759038927151300618/8a6a489c1da37ef0ec2dc740fe3ce5e1.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/759038927151300618/8a6a489c1da37ef0ec2dc740fe3ce5e1.webp?",
+                "joinedAt": "2022-01-22T00:45:15.998Z",
+                "owner": "",
+                "ownerId": "334767107126591488"
+            },
+            "441881106648662032": {
+                "id": "441881106648662032",
+                "name": "Desperius FFXIV",
+                "icon": "9c62c62b237257cc4d710ef7c14a2b25",
+                "avatarURL": "https://cdn.discordapp.com/icons/441881106648662032/9c62c62b237257cc4d710ef7c14a2b25.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/441881106648662032/9c62c62b237257cc4d710ef7c14a2b25.webp?",
+                "joinedAt": "2023-01-10T16:52:29.856Z",
+                "owner": "",
+                "ownerId": "352165948129542144"
+            },
+            "371741890871296000": {
+                "id": "371741890871296000",
+                "name": "Dev/test Server",
+                "icon": null,
+                "joinedAt": "2017-10-22T19:29:33.415Z",
+                "owner": "SWLP#9415",
+                "ownerId": "312616464274161664"
+            },
+            "277897135515762698": {
+                "id": "277897135515762698",
+                "name": "The Balance",
+                "icon": "45aba9eca8b8a501ed7d64f8dc3ee5d2",
+                "avatarURL": "https://cdn.discordapp.com/icons/277897135515762698/45aba9eca8b8a501ed7d64f8dc3ee5d2.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/277897135515762698/45aba9eca8b8a501ed7d64f8dc3ee5d2.webp?",
+                "joinedAt": "2021-09-24T23:07:23.520Z",
+                "owner": "",
+                "ownerId": "148440885833629696"
+            },
+            "189835338556899329": {
+                "id": "189835338556899329",
+                "name": "The Spirit Mod",
+                "icon": "4eec1cc95e25bb487f50a76d932c00f2",
+                "avatarURL": "https://cdn.discordapp.com/icons/189835338556899329/4eec1cc95e25bb487f50a76d932c00f2.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/189835338556899329/4eec1cc95e25bb487f50a76d932c00f2.webp?",
+                "joinedAt": "2022-10-22T23:23:26.259Z",
+                "owner": "",
+                "ownerId": "156520007315095552"
+            },
+            "698847810556002355": {
+                "id": "698847810556002355",
+                "name": "Magikaan's discord",
+                "icon": "8bfe889858f8bbbbc4bbf5b9fcc24cd7",
+                "avatarURL": "https://cdn.discordapp.com/icons/698847810556002355/8bfe889858f8bbbbc4bbf5b9fcc24cd7.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/698847810556002355/8bfe889858f8bbbbc4bbf5b9fcc24cd7.webp?",
+                "joinedAt": "2022-07-26T19:28:22.693Z",
+                "owner": "Magikaan#0420",
+                "ownerId": "328604090923876353"
+            },
+            "667323323394424852": {
+                "id": "667323323394424852",
+                "name": "/r/FFXIV Housing Market",
+                "icon": "2422ae5392ef2a53f5adf4d93d1bfc57",
+                "avatarURL": "https://cdn.discordapp.com/icons/667323323394424852/2422ae5392ef2a53f5adf4d93d1bfc57.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/667323323394424852/2422ae5392ef2a53f5adf4d93d1bfc57.webp?",
+                "joinedAt": "2021-11-30T14:40:08.698Z",
+                "owner": "",
+                "ownerId": "118407809158217737"
+            },
+            "717171492210868296": {
+                "id": "717171492210868296",
+                "name": "TOXIC GAMING",
+                "icon": "baa25eb1d216fb12f369eea2ae1218a2",
+                "avatarURL": "https://cdn.discordapp.com/icons/717171492210868296/baa25eb1d216fb12f369eea2ae1218a2.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/717171492210868296/baa25eb1d216fb12f369eea2ae1218a2.webp?",
+                "joinedAt": "2022-10-25T13:06:11.658Z",
+                "owner": "",
+                "ownerId": "581523596254511155"
+            },
+            "494578207505514496": {
+                "id": "494578207505514496",
+                "name": "PGHub",
+                "icon": "c9b40be3865f07f0269d01b86b10fb76",
+                "avatarURL": "https://cdn.discordapp.com/icons/494578207505514496/c9b40be3865f07f0269d01b86b10fb76.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/494578207505514496/c9b40be3865f07f0269d01b86b10fb76.webp?",
+                "joinedAt": "2023-03-26T02:27:46.569Z",
+                "owner": "",
+                "ownerId": "297787770842382336"
+            },
+            "541916986624704523": {
+                "id": "541916986624704523",
+                "name": "Kakao Games Official",
+                "icon": "d7f4a40e0690137bc87ab99f11dfa77c",
+                "avatarURL": "https://cdn.discordapp.com/icons/541916986624704523/d7f4a40e0690137bc87ab99f11dfa77c.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/541916986624704523/d7f4a40e0690137bc87ab99f11dfa77c.webp?",
+                "joinedAt": "2020-08-21T16:57:23.974Z",
+                "owner": "",
+                "ownerId": "257938911697960961"
+            },
+            "135496553786769408": {
+                "id": "135496553786769408",
+                "name": "Mirai Bot | 未来ボット",
+                "icon": "4969763a22ef03487e4cafd70ca951c2",
+                "avatarURL": "https://cdn.discordapp.com/icons/135496553786769408/4969763a22ef03487e4cafd70ca951c2.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/135496553786769408/4969763a22ef03487e4cafd70ca951c2.webp?",
+                "joinedAt": "2018-10-21T17:38:34.519Z",
+                "owner": "",
+                "ownerId": "95286900801146880"
+            },
+            "279130736806592513": {
+                "id": "279130736806592513",
+                "name": "FFXIV TexTools",
+                "icon": "529e99545632eebd9a2e55404bceb618",
+                "avatarURL": "https://cdn.discordapp.com/icons/279130736806592513/529e99545632eebd9a2e55404bceb618.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/279130736806592513/529e99545632eebd9a2e55404bceb618.webp?",
+                "joinedAt": "2022-01-20T18:57:59.599Z",
+                "owner": "",
+                "ownerId": "59877766299910144"
+            },
+            "561832282512424960": {
+                "id": "561832282512424960",
+                "name": "AgentRuss",
+                "icon": "a8ce1a2369f531e5453baa730dae35d8",
+                "avatarURL": "https://cdn.discordapp.com/icons/561832282512424960/a8ce1a2369f531e5453baa730dae35d8.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/561832282512424960/a8ce1a2369f531e5453baa730dae35d8.webp?",
+                "joinedAt": "2021-03-24T10:22:52.566Z",
+                "owner": "",
+                "ownerId": "154861030273581056"
+            },
+            "613425648685547541": {
+                "id": "613425648685547541",
+                "name": "Discord Developers",
+                "icon": "a_6375907799aa6ff2499a1e729a594739",
+                "avatarURL": "https://cdn.discordapp.com/icons/613425648685547541/a_6375907799aa6ff2499a1e729a594739.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/613425648685547541/a_6375907799aa6ff2499a1e729a594739.gif?",
+                "joinedAt": "2023-02-24T00:25:40.260Z",
+                "owner": "",
+                "ownerId": "53908232506183680"
+            },
+            "784304717156450305": {
+                "id": "784304717156450305",
+                "name": "owoTrack",
+                "icon": "be46affc6171f2a8f1c75355d9244176",
+                "avatarURL": "https://cdn.discordapp.com/icons/784304717156450305/be46affc6171f2a8f1c75355d9244176.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/784304717156450305/be46affc6171f2a8f1c75355d9244176.webp?",
+                "joinedAt": "2022-07-05T18:35:31.366Z",
+                "owner": "",
+                "ownerId": "282292236954238977"
+            },
+            "974043003624783882": {
+                "id": "974043003624783882",
+                "name": "𝖂𝖔𝖗𝖑𝖉-𝕮𝖑𝖎𝖊𝖓𝖙 ♡",
+                "icon": "a_f474fd63a42b88f1b9fcc637139f8482",
+                "avatarURL": "https://cdn.discordapp.com/icons/974043003624783882/a_f474fd63a42b88f1b9fcc637139f8482.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/974043003624783882/a_f474fd63a42b88f1b9fcc637139f8482.gif?",
+                "joinedAt": "2022-06-18T08:56:07.233Z",
+                "owner": "",
+                "ownerId": "974037746333143052"
+            },
+            "1010980909568245801": {
+                "id": "1010980909568245801",
+                "name": "Unstable Diffusion",
+                "icon": "40b099b2f9f55eeef04ff6262def2305",
+                "avatarURL": "https://cdn.discordapp.com/icons/1010980909568245801/40b099b2f9f55eeef04ff6262def2305.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/1010980909568245801/40b099b2f9f55eeef04ff6262def2305.webp?",
+                "joinedAt": "2023-02-28T20:07:10.215Z",
+                "owner": "",
+                "ownerId": "178798548383563777"
+            },
+            "607674690655485993": {
+                "id": "607674690655485993",
+                "name": "nanoSDK",
+                "icon": "01511ab7d40c6432b430bfdd88a448ed",
+                "avatarURL": "https://cdn.discordapp.com/icons/607674690655485993/01511ab7d40c6432b430bfdd88a448ed.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/607674690655485993/01511ab7d40c6432b430bfdd88a448ed.webp?",
+                "joinedAt": "2022-06-18T08:13:30.545Z",
+                "owner": "",
+                "ownerId": "657301605195972628"
+            },
+            "892747986470309898": {
+                "id": "892747986470309898",
+                "name": "Tune Community",
+                "icon": "a_9df399c9e02aa1b32358d205df8df080",
+                "avatarURL": "https://cdn.discordapp.com/icons/892747986470309898/a_9df399c9e02aa1b32358d205df8df080.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/892747986470309898/a_9df399c9e02aa1b32358d205df8df080.gif?",
+                "joinedAt": "2022-08-10T14:50:24.418Z",
+                "owner": "",
+                "ownerId": "307512442617856000"
+            },
+            "304638911051989002": {
+                "id": "304638911051989002",
+                "name": "BDO Striker/Mystic Discord",
+                "icon": "a_0ea1fdeba41b5d1871df703e080e9e43",
+                "avatarURL": "https://cdn.discordapp.com/icons/304638911051989002/a_0ea1fdeba41b5d1871df703e080e9e43.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/304638911051989002/a_0ea1fdeba41b5d1871df703e080e9e43.gif?",
+                "joinedAt": "2020-10-25T14:16:50.625Z",
+                "owner": "",
+                "ownerId": "165802080345391104"
+            },
+            "817184208525983775": {
+                "id": "817184208525983775",
+                "name": "SlimeVR",
+                "icon": "a_e74801ca423019ecba8ef0e9e0f93c61",
+                "avatarURL": "https://cdn.discordapp.com/icons/817184208525983775/a_e74801ca423019ecba8ef0e9e0f93c61.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/817184208525983775/a_e74801ca423019ecba8ef0e9e0f93c61.gif?",
+                "joinedAt": "2022-06-16T08:27:19.402Z",
+                "owner": "",
+                "ownerId": "186321616370663424"
+            },
+            "528472840287289344": {
+                "id": "528472840287289344",
+                "name": "Naty's Nest",
+                "icon": "a_a9ca1c3bf898c342b0924f5a6682f4cd",
+                "avatarURL": "https://cdn.discordapp.com/icons/528472840287289344/a_a9ca1c3bf898c342b0924f5a6682f4cd.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/528472840287289344/a_a9ca1c3bf898c342b0924f5a6682f4cd.gif?",
+                "joinedAt": "2022-01-21T10:34:47.487Z",
+                "owner": "",
+                "ownerId": "211250779888156672"
+            },
+            "965750019170902086": {
+                "id": "965750019170902086",
+                "name": "Nocturnal Mods",
+                "icon": "bc1a0803d323691ecf866df64b53050b",
+                "avatarURL": "https://cdn.discordapp.com/icons/965750019170902086/bc1a0803d323691ecf866df64b53050b.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/965750019170902086/bc1a0803d323691ecf866df64b53050b.webp?",
+                "joinedAt": "2022-06-18T08:11:06.654Z",
+                "owner": "",
+                "ownerId": "902968043053928468"
+            },
+            "600298024425619456": {
+                "id": "600298024425619456",
+                "name": "emmVRC Network",
+                "icon": "4427c1fd46d5f9a84adb5db396f69587",
+                "avatarURL": "https://cdn.discordapp.com/icons/600298024425619456/4427c1fd46d5f9a84adb5db396f69587.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/600298024425619456/4427c1fd46d5f9a84adb5db396f69587.webp?",
+                "joinedAt": "2022-02-04T10:42:00.829Z",
+                "owner": "",
+                "ownerId": "209206057594126336"
+            },
+            "231005508725637120": {
+                "id": "231005508725637120",
+                "name": "BDO Warrior Class Discord",
+                "icon": "a_ec7be41756cb494f1a5654fc3a73bcf4",
+                "avatarURL": "https://cdn.discordapp.com/icons/231005508725637120/a_ec7be41756cb494f1a5654fc3a73bcf4.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/231005508725637120/a_ec7be41756cb494f1a5654fc3a73bcf4.gif?",
+                "joinedAt": "2021-03-07T09:31:56.966Z",
+                "owner": "",
+                "ownerId": "273583868936847361"
+            },
+            "748549159744831499": {
+                "id": "748549159744831499",
+                "name": "Kartoffel's Klubhous",
+                "icon": "5f30f9f7e465d73cce0cea950450860b",
+                "avatarURL": "https://cdn.discordapp.com/icons/748549159744831499/5f30f9f7e465d73cce0cea950450860b.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/748549159744831499/5f30f9f7e465d73cce0cea950450860b.webp?",
+                "joinedAt": "2023-01-20T16:34:30.559Z",
+                "owner": "",
+                "ownerId": "108728343226023936"
+            },
+            "236331890964037632": {
+                "id": "236331890964037632",
+                "name": "xQc's Jungle  🍌",
+                "icon": "a_65201a438b60db5a9064513887835574",
+                "avatarURL": "https://cdn.discordapp.com/icons/236331890964037632/a_65201a438b60db5a9064513887835574.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/236331890964037632/a_65201a438b60db5a9064513887835574.gif?",
+                "joinedAt": "2021-06-22T13:27:08.142Z",
+                "owner": "",
+                "ownerId": "195980608822837249"
+            },
+            "686644291145039910": {
+                "id": "686644291145039910",
+                "name": "sincerely; sleepy ♡",
+                "icon": "7334fd0236d2cc3d8cfbc237130de191",
+                "avatarURL": "https://cdn.discordapp.com/icons/686644291145039910/7334fd0236d2cc3d8cfbc237130de191.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/686644291145039910/7334fd0236d2cc3d8cfbc237130de191.webp?",
+                "joinedAt": "2022-05-21T20:32:30.368Z",
+                "owner": "sleepy#0707",
+                "ownerId": "207286835250987009"
+            },
+            "341252437132312576": {
+                "id": "341252437132312576",
+                "name": "Black Desert | Sorceress Discord",
+                "icon": "a_3bf071fdbe02114067a438f7acc9e82f",
+                "avatarURL": "https://cdn.discordapp.com/icons/341252437132312576/a_3bf071fdbe02114067a438f7acc9e82f.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/341252437132312576/a_3bf071fdbe02114067a438f7acc9e82f.gif?",
+                "joinedAt": "2020-10-25T17:22:39.851Z",
+                "owner": "",
+                "ownerId": "194734393653198849"
+            },
+            "242475316881129472": {
+                "id": "242475316881129472",
+                "name": "Black Desert Horse Community",
+                "icon": "43b326e64627df2ea96f441c2afeb190",
+                "avatarURL": "https://cdn.discordapp.com/icons/242475316881129472/43b326e64627df2ea96f441c2afeb190.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/242475316881129472/43b326e64627df2ea96f441c2afeb190.webp?",
+                "joinedAt": "2021-04-03T22:53:28.710Z",
+                "owner": "",
+                "ownerId": "362015502626979841"
+            },
+            "86004744966914048": {
+                "id": "86004744966914048",
+                "name": "BetterDiscord",
+                "icon": "babd1af3fa6011a50e418a80f4970ceb",
+                "avatarURL": "https://cdn.discordapp.com/icons/86004744966914048/babd1af3fa6011a50e418a80f4970ceb.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/86004744966914048/babd1af3fa6011a50e418a80f4970ceb.webp?",
+                "joinedAt": "2023-02-28T16:00:20.431Z",
+                "owner": "",
+                "ownerId": "249746236008169473"
+            },
+            "981205175203156109": {
+                "id": "981205175203156109",
+                "name": "KΛRMΛ",
+                "icon": "4aecdbd97b02808c600dfa14b10648f3",
+                "avatarURL": "https://cdn.discordapp.com/icons/981205175203156109/4aecdbd97b02808c600dfa14b10648f3.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/981205175203156109/4aecdbd97b02808c600dfa14b10648f3.webp?",
+                "joinedAt": "2022-06-15T22:16:33.593Z",
+                "owner": "",
+                "ownerId": "981200279015944253"
+            },
+            "775357173555396608": {
+                "id": "775357173555396608",
+                "name": "Cam's 3.0s",
+                "icon": "788c493ae0f66e4ce6d0162016c96c05",
+                "avatarURL": "https://cdn.discordapp.com/icons/775357173555396608/788c493ae0f66e4ce6d0162016c96c05.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/775357173555396608/788c493ae0f66e4ce6d0162016c96c05.webp?",
+                "joinedAt": "2022-07-02T23:11:42.887Z",
+                "owner": "",
+                "ownerId": "140802472326332416"
+            },
+            "588324730415742986": {
+                "id": "588324730415742986",
+                "name": "New Dawn",
+                "icon": "377af1ea70be221ffb5c68cc3ba7e514",
+                "avatarURL": "https://cdn.discordapp.com/icons/588324730415742986/377af1ea70be221ffb5c68cc3ba7e514.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/588324730415742986/377af1ea70be221ffb5c68cc3ba7e514.webp?",
+                "joinedAt": "2021-12-12T08:24:34.096Z",
+                "owner": "",
+                "ownerId": "537313407192268807"
+            },
+            "984437330972655656": {
+                "id": "984437330972655656",
+                "name": "Mare Synchronos",
+                "icon": "a_8b31de5164fcd2a5714ad7f0f0247a01",
+                "avatarURL": "https://cdn.discordapp.com/icons/984437330972655656/a_8b31de5164fcd2a5714ad7f0f0247a01.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/984437330972655656/a_8b31de5164fcd2a5714ad7f0f0247a01.gif?",
+                "joinedAt": "2023-01-19T19:46:00.580Z",
+                "owner": "",
+                "ownerId": "124953650614239234"
+            },
+            "409681575073153044": {
+                "id": "409681575073153044",
+                "name": "˗ˏˋ꒰ ❀ R a i k o 常勝꒱´ˎ˗",
+                "icon": "59d0eaad1f6389f52a9c8aabb0fe1897",
+                "avatarURL": "https://cdn.discordapp.com/icons/409681575073153044/59d0eaad1f6389f52a9c8aabb0fe1897.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/409681575073153044/59d0eaad1f6389f52a9c8aabb0fe1897.webp?",
+                "joinedAt": "2018-02-04T12:08:19.081Z",
+                "owner": "SWLP#9415",
+                "ownerId": "312616464274161664"
+            },
+            "983511828468469810": {
+                "id": "983511828468469810",
+                "name": "ʙʀᴀɪɴᴅᴀɴᴄᴇ",
+                "icon": "a_4f7046dbb248a0bd13339be5263e07cf",
+                "avatarURL": "https://cdn.discordapp.com/icons/983511828468469810/a_4f7046dbb248a0bd13339be5263e07cf.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/983511828468469810/a_4f7046dbb248a0bd13339be5263e07cf.gif?",
+                "joinedAt": "2022-06-14T20:25:34.475Z",
+                "owner": "",
+                "ownerId": "233584943022866432"
+            },
+            "936426243174301747": {
+                "id": "936426243174301747",
+                "name": "Rxsi's Cafe",
+                "icon": "b810317fbfa1989b609ded19f77d255b",
+                "avatarURL": "https://cdn.discordapp.com/icons/936426243174301747/b810317fbfa1989b609ded19f77d255b.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/936426243174301747/b810317fbfa1989b609ded19f77d255b.webp?",
+                "joinedAt": "2022-05-23T13:11:36.860Z",
+                "owner": "rxsii#3668",
+                "ownerId": "383709691626389524"
+            },
+            "797160130546106428": {
+                "id": "797160130546106428",
+                "name": "Cupkake's Bakery",
+                "icon": "49368c17b3fe863dcb3be2c324b4270b",
+                "avatarURL": "https://cdn.discordapp.com/icons/797160130546106428/49368c17b3fe863dcb3be2c324b4270b.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/797160130546106428/49368c17b3fe863dcb3be2c324b4270b.webp?",
+                "joinedAt": "2022-05-21T19:32:55.781Z",
+                "owner": "Cupkake#6666",
+                "ownerId": "153191943977828352"
+            },
+            "363249003221221378": {
+                "id": "363249003221221378",
+                "name": "Final Fantasy XIV Housing",
+                "icon": "a_09d620e3ca58667f34f82b3352288e5e",
+                "avatarURL": "https://cdn.discordapp.com/icons/363249003221221378/a_09d620e3ca58667f34f82b3352288e5e.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/363249003221221378/a_09d620e3ca58667f34f82b3352288e5e.gif?",
+                "joinedAt": "2021-11-30T14:28:23.497Z",
+                "owner": "",
+                "ownerId": "375415257646235648"
+            },
+            "868933368828538900": {
+                "id": "868933368828538900",
+                "name": "Club Λscension",
+                "icon": "b03dc9fece63f0e8006c1aead4750ed0",
+                "avatarURL": "https://cdn.discordapp.com/icons/868933368828538900/b03dc9fece63f0e8006c1aead4750ed0.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/868933368828538900/b03dc9fece63f0e8006c1aead4750ed0.webp?",
+                "joinedAt": "2021-10-30T15:17:07.919Z",
+                "owner": "",
+                "ownerId": "281403686247464961"
+            },
+            "995887987814584360": {
+                "id": "995887987814584360",
+                "name": "The Playhouse2",
+                "icon": "468779ed9510dabf3883be007de78290",
+                "avatarURL": "https://cdn.discordapp.com/icons/995887987814584360/468779ed9510dabf3883be007de78290.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/995887987814584360/468779ed9510dabf3883be007de78290.webp?",
+                "joinedAt": "2022-07-17T10:52:27.760Z",
+                "owner": "QtDesire#2089",
+                "ownerId": "921511903543566396"
+            },
+            "439093693769711616": {
+                "id": "439093693769711616",
+                "name": "VRChat Modding Group",
+                "icon": "6e6e55b482f0167fd28d1d044d3da27d",
+                "avatarURL": "https://cdn.discordapp.com/icons/439093693769711616/6e6e55b482f0167fd28d1d044d3da27d.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/439093693769711616/6e6e55b482f0167fd28d1d044d3da27d.webp?",
+                "joinedAt": "2022-02-04T08:34:44.049Z",
+                "owner": "",
+                "ownerId": "209206057594126336"
+            }
+        },
+        "friendCacheSet": [
+            "110082793224024064",
+            "118930306387542016",
+            "136751013582340096",
+            "153600674070921216",
+            "172026502324420615",
+            "185517527852384256",
+            "186310558302208000",
+            "191927039811387392",
+            "195277831561936896",
+            "210080783338176512",
+            "223929302016720896",
+            "231135089600364546",
+            "237249911169482752",
+            "245973249488322560",
+            "253836618719428608",
+            "259669119882887169",
+            "259681837847281665",
+            "261255114726047744",
+            "264554425886965760",
+            "281121003994742785",
+            "293000082725273600",
+            "296856755613466625",
+            "302901073893654528",
+            "304978583900782593",
+            "305780733153378306",
+            "312681810167332864",
+            "312697280945848320",
+            "312698481347395584",
+            "312701721933643776",
+            "313343527536951296",
+            "327599303822540801",
+            "328604090923876353",
+            "341404097506836480",
+            "350431056983490561",
+            "352928050331254794",
+            "359025955471228961",
+            "368261093463818241",
+            "394163467134697476",
+            "404381046650699786",
+            "411877656020123649",
+            "418771721277931520",
+            "420672641226113035",
+            "429702830937341953",
+            "443746854065143809",
+            "452583951408824320",
+            "466556827006533632",
+            "534827712163086347",
+            "535940207858548756",
+            "541802297186058241",
+            "581657868831555607",
+            "604433668676780044",
+            "611559943220232193",
+            "620006594637463552",
+            "640636734887165982",
+            "690287038922358785",
+            "708207984676831245",
+            "712381250928640050",
+            "737139551318966292",
+            "757714278286622850",
+            "835879135929827358",
+            "870088023977644113",
+            "877110763121164298",
+            "921511903543566396",
+            "940165693284970536",
+            "941753151743213568",
+            "969633252526657606",
+            "970575232198905896",
+            "986494712150097970",
+            "1065658124851228672"
+        ],
+        "guildCacheSet": [
+            "971164439552339978",
+            "312623964130246656",
+            "792680468138819594",
+            "927032063587156028",
+            "477210626742288384",
+            "662267976984297473",
+            "380042624586874881",
+            "579635354600996864",
+            "909384859275919390",
+            "441979980407373844",
+            "213330594749349888",
+            "710026416632102955",
+            "869482994468020275",
+            "759754608200908871",
+            "844628623884681268",
+            "638653978984448000",
+            "678702798459895842",
+            "647427816895414292",
+            "241526080010190848",
+            "492294696912158720",
+            "521658062809989171",
+            "759038927151300618",
+            "441881106648662032",
+            "371741890871296000",
+            "277897135515762698",
+            "189835338556899329",
+            "698847810556002355",
+            "667323323394424852",
+            "717171492210868296",
+            "494578207505514496",
+            "541916986624704523",
+            "135496553786769408",
+            "279130736806592513",
+            "561832282512424960",
+            "613425648685547541",
+            "784304717156450305",
+            "974043003624783882",
+            "1010980909568245801",
+            "607674690655485993",
+            "892747986470309898",
+            "304638911051989002",
+            "817184208525983775",
+            "528472840287289344",
+            "965750019170902086",
+            "600298024425619456",
+            "231005508725637120",
+            "748549159744831499",
+            "236331890964037632",
+            "686644291145039910",
+            "341252437132312576",
+            "242475316881129472",
+            "86004744966914048",
+            "981205175203156109",
+            "775357173555396608",
+            "588324730415742986",
+            "984437330972655656",
+            "409681575073153044",
+            "983511828468469810",
+            "936426243174301747",
+            "797160130546106428",
+            "363249003221221378",
+            "868933368828538900",
+            "995887987814584360",
+            "439093693769711616"
+        ],
+        "removedFriendHistory": [],
+        "removedGuildHistory": [
+            {
+                "id": "673914842138148914",
+                "name": "Humans of VR",
+                "icon": "285c9250353b2c1b32ee6201d5523ebe",
+                "avatarURL": "https://cdn.discordapp.com/icons/673914842138148914/285c9250353b2c1b32ee6201d5523ebe.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/673914842138148914/285c9250353b2c1b32ee6201d5523ebe.webp?",
+                "joinedAt": "2023-01-04T11:25:48.362Z",
+                "owner": "",
+                "ownerId": "664323309973798963",
+                "timeRemoved": "2023-02-24T03:30:41.449Z"
+            },
+            {
+                "id": "662267976984297473",
+                "name": "Midjourney",
+                "icon": "e75033be72087a87fa09e91727dac2a4",
+                "avatarURL": "https://cdn.discordapp.com/icons/662267976984297473/e75033be72087a87fa09e91727dac2a4.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/662267976984297473/e75033be72087a87fa09e91727dac2a4.webp?",
+                "joinedAt": "2022-10-03T15:19:13.908Z",
+                "owner": "",
+                "ownerId": "381590592095911946",
+                "timeRemoved": "2023-02-25T19:44:57.330Z"
+            },
+            {
+                "id": "828427522563375134",
+                "name": "Moon Cake Cafe",
+                "icon": "3a3b68f510c34f5f35949d438f123a57",
+                "avatarURL": "https://cdn.discordapp.com/icons/828427522563375134/3a3b68f510c34f5f35949d438f123a57.webp?size=60",
+                "animatedAvatarURL": "https://cdn.discordapp.com/icons/828427522563375134/3a3b68f510c34f5f35949d438f123a57.webp?",
+                "joinedAt": "2022-02-17T02:03:56.221Z",
+                "owner": "(𝒮𝓁ℯℯ𝓅𝓎) 𝒮𝒶ℴ𝓇𝒾#3835",
+                "ownerId": "994335686364758046",
+                "timeRemoved": "2023-03-26T05:13:35.258Z"
+            }
+        ]
+    }
+}

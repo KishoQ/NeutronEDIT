@@ -1,0 +1,230 @@
+{
+	"all": {
+		"folders": {
+			"1317361153": {
+				"autoRead": false,
+				"color1": [
+					109,
+					20,
+					173,
+					1
+				],
+				"color2": [
+					109,
+					20,
+					173,
+					1
+				],
+				"color3": [
+					109,
+					20,
+					173,
+					1
+				],
+				"color4": [
+					44,
+					44,
+					44,
+					1
+				],
+				"copyTooltipColor": true,
+				"folderName": "VRChat",
+				"iconID": "-1",
+				"muteFolder": false,
+				"swapColors": true,
+				"useClosedIcon": true
+			},
+			"1865013232": {
+				"autoRead": false,
+				"color1": [
+					134,
+					30,
+					233,
+					1
+				],
+				"color2": [
+					"255",
+					"255",
+					"255"
+				],
+				"color3": [
+					134,
+					30,
+					233,
+					1
+				],
+				"color4": [
+					44,
+					44,
+					44,
+					1
+				],
+				"copyTooltipColor": false,
+				"folderName": "FFXIV",
+				"iconID": "-1",
+				"muteFolder": false,
+				"swapColors": false,
+				"useClosedIcon": true
+			},
+			"1958039463": {
+				"autoRead": false,
+				"color1": [
+					44,
+					44,
+					44,
+					1
+				],
+				"color2": [
+					44,
+					44,
+					44,
+					1
+				],
+				"color3": null,
+				"color4": [
+					44,
+					44,
+					44,
+					1
+				],
+				"copyTooltipColor": true,
+				"folderName": "GAMES",
+				"iconID": "-1",
+				"muteFolder": false,
+				"swapColors": true,
+				"useClosedIcon": true
+			},
+			"2519120767": {
+				"autoRead": false,
+				"color1": [
+					255,
+					255,
+					255,
+					1
+				],
+				"color2": [
+					"255",
+					"255",
+					"255"
+				],
+				"color3": [
+					255,
+					255,
+					255,
+					1
+				],
+				"color4": [
+					44,
+					44,
+					44,
+					1
+				],
+				"copyTooltipColor": true,
+				"folderName": "OLD",
+				"iconID": "-1",
+				"muteFolder": false,
+				"swapColors": true,
+				"useClosedIcon": true
+			},
+			"2616034625": {
+				"autoRead": false,
+				"color1": null,
+				"color2": [
+					"255",
+					"255",
+					"255"
+				],
+				"color3": null,
+				"color4": [
+					44,
+					44,
+					44,
+					1
+				],
+				"copyTooltipColor": true,
+				"folderName": "RANDOM",
+				"iconID": "-1",
+				"muteFolder": false,
+				"swapColors": true,
+				"useClosedIcon": true
+			},
+			"2830668506": {
+				"autoRead": false,
+				"color1": [
+					44,
+					44,
+					44,
+					1
+				],
+				"color2": [
+					233,
+					30,
+					99,
+					1
+				],
+				"color3": [
+					233,
+					30,
+					99,
+					1
+				],
+				"color4": [
+					44,
+					44,
+					44,
+					1
+				],
+				"copyTooltipColor": true,
+				"folderName": "BDO",
+				"iconID": "-1",
+				"muteFolder": false,
+				"swapColors": true,
+				"useClosedIcon": true
+			},
+			"4138566339": {
+				"autoRead": false,
+				"color1": [
+					233,
+					30,
+					99,
+					1
+				],
+				"color2": [
+					233,
+					30,
+					99,
+					1
+				],
+				"color3": [
+					233,
+					30,
+					99,
+					1
+				],
+				"color4": [
+					44,
+					44,
+					44,
+					1
+				],
+				"copyTooltipColor": true,
+				"folderName": "Friends",
+				"iconID": "-1",
+				"muteFolder": false,
+				"swapColors": true,
+				"useClosedIcon": true
+			}
+		},
+		"general": {
+			"addFolderBackground": true,
+			"addFolderIcon": false,
+			"addSeparators": true,
+			"closeAllFolders": false,
+			"closeOtherFolders": false,
+			"closeTheFolder": false,
+			"extraColumn": true,
+			"forceOpenFolder": false,
+			"showCountBadge": true
+		}
+	}
+}

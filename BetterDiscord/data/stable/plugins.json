@@ -1,0 +1,21 @@
+{
+    "BDFDB": false,
+    "ZeresPluginLibrary": false,
+    "BDContextMenu": false,
+    "BetterAnimations": false,
+    "CollapsibleUI": false,
+    "CustomStatusPresets": false,
+    "DoubleClickVoiceChannels": false,
+    "OpenSteamLinksInApp": false,
+    "PinIcon": false,
+    "PluginRepo": false,
+    "RemovedConnectionAlerts": false,
+    "ServerFolders": false,
+    "ShowAllActivities": false,
+    "SpellCheck": false,
+    "SpotifyListenAlong": false,
+    "StreamerModeOnLive": false,
+    "Timezones": false,
+    "UserVoiceShow": false,
+    "VoiceActivity": false
+}
